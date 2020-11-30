@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Firefox Setup 79.0"
-  comment: "Firefox Setup 79.0"
-  url: https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/en-US/win64/882b427c3e945e68fcb025a5b0a0262f84e9c90c8a5d36a978e7e6130f4ef275/Firefox%20Setup%2079.0.exe
-  file_name: "Firefox Setup 79.0.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "main.1825.com.activision.callofduty.shooter.obb" 
+  comment: "main.1825.com.activision.callofduty.shooter.obb" 
+  url: https://gpudf.down-apk.com/download?token=AOTCm0RHFMFnv5_MUu5g6eUjgOIKzdm19bmrls-XkGnP0zp4BJrS8LyTKsKhXbOcrSGPEY3NZNQvVH06fdiidD76mg7ZHQzY9l3fM_xWSfoTu-SJeMU2N7DckD16JyUO7dhz00Nu3gtWNy8AGzBREEQaK3pYsTqbFKxwXG47Edt2IkIUMwbtdARHHYtACL92rarTcmDZXh8DfEVkZ9NTqeUG2aethDIaQK2eXQEgda80k2ryCO2xkc2jolH2oigV1iRSVLQ1LDI2_0i9P3jKH9Gu9Hn12J2pbhOOSkF0AHUGMbwteRgMZGRsexdgiVSzPFWDcg1Ph6IFWch-BDa3IHo84KszJ2FOAl8i3d7fUuMe9Mavmh9hd5fiXR3-Lwjj6Q4LFPmsfDkfS8bORCoYo5w55Z9Tdg-3sYTWFDLlqf2fqFpTTkCUm9z_NA&cpn=v2HINSj_AK03DKsw&name=main.1825.com.activision.callofduty.shooter.obb&package_name=com.activision.callofduty.shooter&cra=1606723663560
+  file_name: "main.1825.com.activision.callofduty.shooter.obb" 
+  piece_size: 2^20
       
 jobs:
   create:
